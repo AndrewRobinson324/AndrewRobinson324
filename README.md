@@ -31,4 +31,4 @@ I specialize in transforming raw data and sensory input into actionable intellig
 ---
 
 ## 📫 Let's Connect!
-- **LinkedIn**: [www.linkedin.com/in/andrew-robinson-5b81661bb(www.linkedin.com/in/andrew-robinson-5b81661bb)
+- **LinkedIn**: www.linkedin.com/in/andrew-robinson-5b81661bb
