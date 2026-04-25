@@ -14,11 +14,10 @@ My work focuses on infrastructure resilience, proactive security analysis, and m
 
 ## 📊 Data Science & AI Projects
 I specialize in transforming raw data and sensory input into actionable intelligence through predictive modeling, computer vision, and automated data collection.
-
-*   **[RentMTL - Montreal Housing Scraper](https://github.com/AndrewRobinson324/rentmtl)**: A web scraping tool designed to navigate the Montreal rental market by extracting and organizing real-time listing data for easier analysis.
-*   **[AI Doom Bot](https://github.com/AndrewRobinson324/AI-Doom-Bot)**: An implementation of artificial intelligence capable of navigating and playing the classic game Doom, showcasing real-time decision-making and vision processing.
 *   **[Handwritten Chinese Character Recognition (HCCR)](https://github.com/AndrewRobinson324/HCCR)**: A deep learning project focused on high-accuracy image classification and character recognition using computer vision.
 *   **[Supermarket Ad Campaign Analysis](https://github.com/AndrewRobinson324/Supermarket-Ad-Campaign-Analysis)**: A machine learning project utilizing **Gradient Boosting** and **Logistic Regression** to analyze customer behavior and optimize marketing ROI.
+*   **[AI Doom Bot](https://github.com/AndrewRobinson324/AI-Doom-Bot)**: An implementation of artificial intelligence capable of navigating and playing the classic game Doom, showcasing real-time decision-making and vision processing.
+
 
 ---
 
