@@ -10,7 +10,7 @@ My work focuses on infrastructure resilience, proactive security analysis, and m
 
 *   **[Cybersecurity Labs](https://github.com/AndrewRobinson324/Cybersecurity-Labs)**: A comprehensive repository documenting hands-on security exercises, threat analysis, and vulnerability assessment protocols.
 *   **[Homelab Networking & DHCP Setup](https://github.com/AndrewRobinson324/Networking-labs/tree/main/01-homelan-dhcp)**: Implementation of local network infrastructure, focusing on DHCP server configuration, address reservation, and segmenting home laboratory environments.
-*   **Linux Infrastructure Management**: Experienced in kernel optimization, troubleshooting hardware-level driver conflicts, and maintaining stable, secure Linux server operations.
+*   **[Phishing Detection Model](https://github.com/AndrewRobinson324/phishing_url_detector)**: Used Logistic Regression to create a Phishing URL evaluator with a front facing app where you can post in the url and it will tell you if it is likely suspicious, with a 97% accuracy
 
 ## 📊 Data Science & AI Projects
 I specialize in transforming raw data and sensory input into actionable intelligence through predictive modeling, computer vision, and automated data collection.
